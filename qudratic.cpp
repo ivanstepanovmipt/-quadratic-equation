@@ -2,8 +2,6 @@
 #include <cmath>
 #include <assert.h>
 
-#define undef
-
 int SolveQuadradicEquation(double a, double b, double c, double *x1, double *x2) {
     assert(x1);
     assert(x2);
